@@ -40,7 +40,7 @@ Diploma em Ciências e Tecnologias
 
 ## Projetos Desenvolvidos
 
-### Sistema de Aluguer de Cacifos com Pagamentos Online
+### Sistema de Aluguer de Cacifos Inteligentes com Pagamentos Online
 Plataforma completa de gestão e aluguer de cacifos com integração de pagamentos via Stripe.  
 
 **Responsabilidades:**
