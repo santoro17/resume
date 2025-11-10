@@ -1,7 +1,9 @@
 # Paulo Carvalho
 **Fullstack Web Developer**  
-**Email:** paulocarvalho_95@hotmail.com  
-**Telemóvel:** (+351) 935 568 569  
+
+📧 [paulocarvalho_95@hotmail.com](mailto:paulocarvalho_95@hotmail.com)  
+📱 (+351) 935 568 569  
+🌐 [GitHub](https://github.com/santoro17) | [LinkedIn](https://www.linkedin.com/in/paulocarvalho/)  
 
 ---
 
@@ -21,17 +23,17 @@ Diploma em Ciências e Tecnologias
 ## Experiência Profissional
 
 **Purple Profile | 2021 - Atualidade**  
-Fullstack Web Developer
+*Fullstack Web Developer*
 
 **Carpintaria Novais Lda | 2020 - 2021**  
-Ajudante
+*Ajudante*
 
 ---
 
 ## Projetos Desenvolvidos
 
 ### Sistema de Aluguer de Cacifos com Pagamentos Online
-Plataforma completa de gestão e aluguer de cacifos com integração de pagamentos através da Stripe.  
+Plataforma completa de gestão e aluguer de cacifos com integração de pagamentos via Stripe.  
 
 **Responsabilidades:**
 - Elaboração e estruturação da base de dados
@@ -39,7 +41,12 @@ Plataforma completa de gestão e aluguer de cacifos com integração de pagament
 - Criação de dashboard de gestão completa (cacifos, utilizadores, pagamentos e faturas)
 - Desenvolvimento do frontend para o cliente final  
 
-**Tecnologias:** Symfony, MySQL, Stripe API, React, Tailwind CSS
+**Tecnologias:**  
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)  
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 
 ---
 
@@ -52,7 +59,12 @@ Sistema automatizado de gestão de cacifos inteligentes para receção e entrega
 - Criação de dashboard de gestão (encomendas, cacifos, utilizadores)
 - Integração e gestão de webhooks para automação de processos  
 
-**Tecnologias:** Symfony, MySQL, RabbitMQ, Webhooks, React
+**Tecnologias:**  
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)  
+![Webhooks](https://img.shields.io/badge/Webhooks-0088CC?style=flat)
 
 ---
 
@@ -64,7 +76,11 @@ Sistema integrado de gestão interna de recursos humanos e gestão de conteúdo 
 - Implementação de CMS personalizado para website institucional
 - Criação de interface única para gestão integrada da empresa  
 
-**Tecnologias:** Symfony, React, MySQL, Tailwind CSS
+**Tecnologias:**  
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 
 ---
 
@@ -75,46 +91,52 @@ Aplicação web interativa desenvolvida para mesa tátil, com funcionalidades mu
 - Desenvolvimento de interface web para mesa tátil
 - Implementação de mapa 3D interativo
 - Criação de galeria multimédia
-- Desenvolvimento de sistema de partilha de fotografias em tempo real via WebSocket (smartphone para mesa)  
+- Sistema de partilha de fotografias em tempo real via WebSocket  
 
-**Tecnologias:** React, WebSocket, Three.js/WebGL, Node.js
+**Tecnologias:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![WebSocket](https://img.shields.io/badge/WebSocket-0088CC?style=flat)  
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 ---
 
 ### Sistema de Controlo de Máquina Dinâmica de Ginásio
-Interface web para controlo remoto e automação de equipamento de ginásio, permitindo ajustes precisos e personalizados.  
+Interface web para controlo remoto e automação de equipamento de ginásio.  
 
 **Responsabilidades:**
 - Desenvolvimento de interface web de controlo
-- Implementação de sistema de comunicação com motores da máquina
+- Comunicação com motores da máquina
 - Criação de controlos para ajuste de pesos, altura e rotação do banco
-- Garantia de precisão e segurança nas operações mecânicas  
+- Garantia de precisão e segurança nas operações  
 
-**Tecnologias:** React, WebSocket, Node.js, API de controlo de hardware
+**Tecnologias:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![WebSocket](https://img.shields.io/badge/WebSocket-0088CC?style=flat)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
 
 ---
 
 ## Competências
-- Capacidade de comunicação
-- Sentido de liderança
-- Versatilidade
-- Resolução de problemas
-- Trabalho em equipa
+- Capacidade de comunicação  
+- Sentido de liderança  
+- Versatilidade  
+- Resolução de problemas  
+- Trabalho em equipa  
 
 ---
 
 ## Habilidades Técnicas
-- Symfony (PHP)
-- React (Javascript)
-- MySQL
-- Tailwind CSS
-- HTML
-- Node.js
-- Git
-- Stripe API
-- REST APIs
-- Webhooks
-- WebSocket
-- Three.js/WebGL
-- RabbitMQ
-- API de controlo de hardware
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)  
+![REST APIs](https://img.shields.io/badge/REST_API-0088CC?style=flat)  
+![Webhooks](https://img.shields.io/badge/Webhooks-0088CC?style=flat)  
+![WebSocket](https://img.shields.io/badge/WebSocket-0088CC?style=flat)  
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat)  
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat)
