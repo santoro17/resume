@@ -30,6 +30,13 @@ Diploma em Ciências e Tecnologias
 
 ---
 
+## Idiomas
+
+- Português: Nativo
+- Inglês: Intermédio (leitura, escrita e conversação)
+
+---
+
 ## Projetos Desenvolvidos
 
 ### Sistema de Aluguer de Cacifos com Pagamentos Online
