@@ -27,7 +27,7 @@ Diploma em Ciências e Tecnologias
 *Fullstack Web Developer*
 
 **Carpintaria Novais Lda | 2020 - 2021**  
-*Ajudante*
+*Ajudante | Acabamentos e Pintura*
 
 ---
 
