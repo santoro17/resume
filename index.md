@@ -40,6 +40,17 @@ High School Diploma in Science and Technology
 
 ## Projects
 
+### Cloud Control Platform for the Unitree G1 Humanoid Robot with AI Integration
+Cloud-based platform, designed and developed from scratch, for remote control of the Unitree G1 humanoid robot, with an integrated AI enabling natural voice conversation with the robot.  
+
+**Responsibilities:**
+- Design and development of a cloud platform for remote control of the Unitree G1 robot
+- Implementation of communication between the cloud platform and the robot
+- Integration of an AI model for real-time conversation with the robot
+- Management of the interaction flow between the user, the AI and the robot  
+
+---
+
 ### Smart Locker Rental System with Online Payments
 Complete locker management and rental platform with Stripe payment integration.  
 
