@@ -8,48 +8,48 @@
 
 ---
 
-## Formação Académica
+## Education
 
-**Universidade de Trás-os-Montes e Alto Douro | 2017 - 2021**  
-Mestrado em Comunicação e Multimédia
+**University of Trás-os-Montes and Alto Douro | 2017 - 2021**  
+Master's Degree in Communication and Multimedia
 
-**Universidade de Trás-os-Montes e Alto Douro | 2014 - 2017**  
-Licenciatura em Comunicação e Multimédia
+**University of Trás-os-Montes and Alto Douro | 2014 - 2017**  
+Bachelor's Degree in Communication and Multimedia
 
 **Escola Secundária de São Pedro | 2007 - 2014**  
-Diploma em Ciências e Tecnologias
+High School Diploma in Science and Technology
 
 ---
 
-## Experiência Profissional
+## Professional Experience
 
-**Purple Profile | 2021 - Atualidade**  
+**Purple Profile | 2021 - Present**  
 *Fullstack Web Developer*
 
 **Carpintaria Novais Lda | 2020 - 2021**  
-*Ajudante | Acabamentos e Pintura*
+*Assistant | Finishing and Painting*
 
 ---
 
-## Idiomas
+## Languages
 
-- Português: Nativo
-- Inglês: Intermédio (leitura, escrita e conversação)
+- Portuguese: Native
+- English: Intermediate (reading, writing and speaking)
 
 ---
 
-## Projetos Desenvolvidos
+## Projects
 
-### Sistema de Aluguer de Cacifos Inteligentes com Pagamentos Online
-Plataforma completa de gestão e aluguer de cacifos com integração de pagamentos via Stripe.  
+### Smart Locker Rental System with Online Payments
+Complete locker management and rental platform with Stripe payment integration.  
 
-**Responsabilidades:**
-- Elaboração e estruturação da base de dados
-- Desenvolvimento da API REST em Symfony (PHP)
-- Criação de dashboard de gestão completa (cacifos, utilizadores, pagamentos e faturas)
-- Desenvolvimento do frontend para o cliente final  
+**Responsibilities:**
+- Database design and structuring
+- Development of the REST API in Symfony (PHP)
+- Creation of a complete management dashboard (lockers, users, payments and invoices)
+- Development of the end-customer frontend  
 
-**Tecnologias:**  
+**Technologies:**  
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
@@ -58,16 +58,16 @@ Plataforma completa de gestão e aluguer de cacifos com integração de pagament
 
 ---
 
-### Cacifos Inteligentes para Entrega de Encomendas
-Sistema automatizado de gestão de cacifos inteligentes para receção e entrega de encomendas.  
+### Smart Lockers for Parcel Delivery
+Automated smart locker management system for receiving and delivering parcels.  
 
-**Responsabilidades:**
-- Desenho e implementação da arquitetura da base de dados
-- Desenvolvimento da API em Symfony
-- Criação de dashboard de gestão (encomendas, cacifos, utilizadores)
-- Integração e gestão de webhooks para automação de processos  
+**Responsibilities:**
+- Design and implementation of the database architecture
+- Development of the API in Symfony
+- Creation of a management dashboard (parcels, lockers, users)
+- Integration and management of webhooks for process automation  
 
-**Tecnologias:**  
+**Technologies:**  
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
@@ -76,15 +76,15 @@ Sistema automatizado de gestão de cacifos inteligentes para receção e entrega
 
 ---
 
-### Plataforma de Gestão Empresarial e CMS Institucional
-Sistema integrado de gestão interna de recursos humanos e gestão de conteúdo web institucional.  
+### Business Management Platform and Corporate CMS
+Integrated system for internal human resources management and corporate web content management.  
 
-**Responsabilidades:**
-- Desenvolvimento de sistema de gestão interna de utilizadores
-- Implementação de CMS personalizado para website institucional
-- Criação de interface única para gestão integrada da empresa  
+**Responsibilities:**
+- Development of an internal user management system
+- Implementation of a custom CMS for the corporate website
+- Creation of a single interface for integrated company management  
 
-**Tecnologias:**  
+**Technologies:**  
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
@@ -92,16 +92,16 @@ Sistema integrado de gestão interna de recursos humanos e gestão de conteúdo 
 
 ---
 
-### Aplicação Web para Mesa Tátil Interativa
-Aplicação web interativa desenvolvida para mesa tátil, com funcionalidades multimédia e comunicação em tempo real.  
+### Web Application for an Interactive Touch Table
+Interactive web application developed for a touch table, with multimedia features and real-time communication.  
 
-**Responsabilidades:**
-- Desenvolvimento de interface web para mesa tátil
-- Implementação de mapa 3D interativo
-- Criação de galeria multimédia
-- Sistema de partilha de fotografias em tempo real via WebSocket  
+**Responsibilities:**
+- Development of the web interface for the touch table
+- Implementation of an interactive 3D map
+- Creation of a multimedia gallery
+- Real-time photo sharing system via WebSocket  
 
-**Tecnologias:**  
+**Technologies:**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
 ![WebSocket](https://img.shields.io/badge/WebSocket-0088CC?style=flat)  
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat)  
@@ -109,32 +109,32 @@ Aplicação web interativa desenvolvida para mesa tátil, com funcionalidades mu
 
 ---
 
-### Sistema de Controlo de Máquina Dinâmica de Ginásio
-Interface web para controlo remoto e automação de equipamento de ginásio.  
+### Dynamic Gym Machine Control System
+Web interface for remote control and automation of gym equipment.  
 
-**Responsabilidades:**
-- Desenvolvimento de interface web de controlo
-- Comunicação com motores da máquina
-- Criação de controlos para ajuste de pesos, altura e rotação do banco
-- Garantia de precisão e segurança nas operações  
+**Responsibilities:**
+- Development of the web control interface
+- Communication with the machine's motors
+- Creation of controls for adjusting weights, height and seat rotation
+- Ensuring precision and safety in operations  
 
-**Tecnologias:**  
+**Technologies:**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
 ![WebSocket](https://img.shields.io/badge/WebSocket-0088CC?style=flat)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
 
 ---
 
-## Competências
-- Capacidade de comunicação  
-- Sentido de liderança  
-- Versatilidade  
-- Resolução de problemas  
-- Trabalho em equipa  
+## Soft Skills
+- Communication skills  
+- Leadership  
+- Versatility  
+- Problem solving  
+- Teamwork  
 
 ---
 
-## Habilidades Técnicas
+## Technical Skills
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
